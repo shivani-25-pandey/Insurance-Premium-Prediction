@@ -1,0 +1,2 @@
+# Insurance-Premium-Prediction
+The purposes of this exercise to help medical insurance company to make decision on charging the premium by predicting future medical expenses of individuals. We observe relationship between different features and plot  best regression model based on several features of individual such as age, sex, BMI, Number of Children against their existing medical expense to be used for predicting future medical expenses. 
